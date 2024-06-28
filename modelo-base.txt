@@ -1,0 +1,38 @@
+Ver el dump
+
+Esquema de Actividad
+{
+  "_id": "ObjectId",
+  "fecha": "Date",
+  "tipo_actividad": "String",
+  "insumos_utilizados": "String",
+  "duracion": "Number",
+  "parcela_id": "ObjectId"
+}
+
+Esquema de Parcela  
+
+{
+  "_id": "ObjectId",
+  "latitud": "Number",
+  "longitud": "Number",
+  "tamaño": "Number",
+  "tipo_cultivo": "String",
+  "finca_id": "ObjectId"
+}
+
+Esquema de Finca
+{
+  "_id": "ObjectId",
+  "nombre": "String",
+  "ubicacion": "String",
+  "usuario_id": "ObjectId"
+}
+
+Esquema de Usuario
+{
+  "_id": "ObjectId",
+  "nombre": "String",
+  "email": "String",
+  "password": "String"
+}

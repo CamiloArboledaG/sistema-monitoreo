@@ -1,0 +1,25 @@
+Requerimientos
+
+Funcionales
+
+Registro de nuevos usuarios.
+Inicio de sesión para usuarios registrados.
+Autenticación de usuarios mediante JWT.
+Crear nuevas fincas.
+Obtener la lista de fincas del usuario actual.
+Actualizar y eliminar fincas.
+Crear nuevas parcelas dentro de una finca.
+Obtener la lista de parcelas de las fincas del usuario actual.
+Actualizar y eliminar parcelas.
+Crear nuevas actividades agronómicas.
+Obtener la lista de actividades agronómicas de las parcelas del usuario actual.
+Actualizar y eliminar actividades agronómicas.
+
+
+No Funcionales
+
+Uso de JWT para autenticación de usuarios.
+Verificación de permisos para acceder a fincas y parcelas.
+Interfaz amigable y fácil de usar para los campesinos.
+Acceso desde dispositivos móviles y de escritorio.
+Desplegable mediante Docker.

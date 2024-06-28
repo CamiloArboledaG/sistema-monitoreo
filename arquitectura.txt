@@ -1,0 +1,5 @@
+Arquitectura
+
+Frontend: React con Material-UI para la interfaz de usuario.
+Backend: Node.js con Express para manejar las solicitudes HTTP.
+Base de Datos: MongoDB para almacenar los datos de usuarios, fincas, parcelas y actividades.

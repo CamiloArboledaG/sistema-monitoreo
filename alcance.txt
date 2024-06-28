@@ -1,0 +1,3 @@
+El sistema de monitoreo de actividades agronómicas tiene como objetivo proporcionar 
+a los campesinos una herramienta que les permita llevar un registro detallado de sus 
+actividades diarias en sus fincas.

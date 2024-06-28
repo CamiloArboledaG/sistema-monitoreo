@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"b076a83b656540c0a31103237ea0d7a7","collectionName":"fincas","type":"collection"}
